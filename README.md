@@ -114,7 +114,7 @@ Feel free to use, modify, and distribute this design with proper attribution.
 
 ---
 
-**Thanks for checking out the Synchronous FIFO project!**  
+**Thanks for checking out the Asynchronous FIFO project!**  
 Contributions, testbenches, or improvements are welcome — feel free to open issues or PRs.
 
 ---
