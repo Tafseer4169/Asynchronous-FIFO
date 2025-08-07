@@ -88,7 +88,7 @@ The included testbench demonstrates:
 ```
 Asynchronous-fifo-verilog/
 ├── src/
-│ └── async_fifo.v # Main FIFO module
+│ └── async.v # Main FIFO module
 ├── tb/
 │ └── tb_async_fifo.v # Testbench
 ├── README.md # Project documentation
