@@ -88,7 +88,7 @@ The included testbench demonstrates:
 Below is a visual overview of the **Asynchronous FIFO**, showing the separation of **write** and **read** clock domains, the **memory buffer**, **pointer synchronization** (using Gray code and double flip‑flop synchronizers), and the **full/empty flag logic**:
 
 ![Asynchronous FIFO Block Diagram](https://github.com/Tafseer4169/Asynchronous-FIFO/blob/main/async-fifo-block_diagram.gif)
-![Async FIFO Demo](F:\CLG CONTENT\fpga content\asyn_fifo)
+![Async FIFO Demo](https://github.com/Tafseer4169/Asynchronous-FIFO/blob/main/async_fifo_demo.png)
 
 
 ## 📁 **Directory Structure**
